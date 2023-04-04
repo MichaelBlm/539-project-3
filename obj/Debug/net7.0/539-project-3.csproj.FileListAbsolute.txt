@@ -1,0 +1,15 @@
+/home/mike/projects/539-project-3/bin/Debug/net7.0/539-project-3
+/home/mike/projects/539-project-3/bin/Debug/net7.0/539-project-3.deps.json
+/home/mike/projects/539-project-3/bin/Debug/net7.0/539-project-3.runtimeconfig.json
+/home/mike/projects/539-project-3/bin/Debug/net7.0/539-project-3.dll
+/home/mike/projects/539-project-3/bin/Debug/net7.0/539-project-3.pdb
+/home/mike/projects/539-project-3/obj/Debug/net7.0/539-project-3.csproj.AssemblyReference.cache
+/home/mike/projects/539-project-3/obj/Debug/net7.0/539-project-3.GeneratedMSBuildEditorConfig.editorconfig
+/home/mike/projects/539-project-3/obj/Debug/net7.0/539-project-3.AssemblyInfoInputs.cache
+/home/mike/projects/539-project-3/obj/Debug/net7.0/539-project-3.AssemblyInfo.cs
+/home/mike/projects/539-project-3/obj/Debug/net7.0/539-project-3.csproj.CoreCompileInputs.cache
+/home/mike/projects/539-project-3/obj/Debug/net7.0/539-project-3.dll
+/home/mike/projects/539-project-3/obj/Debug/net7.0/refint/539-project-3.dll
+/home/mike/projects/539-project-3/obj/Debug/net7.0/539-project-3.pdb
+/home/mike/projects/539-project-3/obj/Debug/net7.0/539-project-3.genruntimeconfig.cache
+/home/mike/projects/539-project-3/obj/Debug/net7.0/ref/539-project-3.dll
