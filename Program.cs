@@ -8,6 +8,7 @@ namespace _539_project_3
 {
 class Program
 {
+    #pragma warning disable
     static byte[] EncryptStringToBytes_Aes(string plainText, byte[] Key, byte[] IV)
         {
             // Check arguments.
